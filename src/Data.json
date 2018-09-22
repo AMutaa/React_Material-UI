@@ -1,0 +1,60 @@
+{
+  "projects": [
+    {
+      "title": "City Bikes",
+      "stack": "React JS, JavaScript, City Bikes API, Google Maps API, CSS, HTML",
+      "description": "I created this movie application using the React JavaScript Library. The application fetches data asynchronously from the city bikes API and displays locations of different bike stations on a Map.",
+      "thumbnail": "/images/bikes.png",
+      "link": "https://epic-sinoussi-1ed3e1.netlify.com/"
+    },
+    {
+      "title": "Video Searcher",
+      "stack": "React JS, JavaScript, YouTube API, CSS, Bootstrap, HTML",
+      "description": "This simple application was created using the React JavaScript Library.The app uses the YouTube API to query 5 videos input by the user. The app also uses minor Bootstrap for styling",
+      "thumbnail": "/images/youtube.png",
+      "link": "https://react-23f05.firebaseapp.com/"
+    },
+    {
+      "title": "Net Movies",
+      "stack": "React JS, JavaScript, the Movie Database API, CSS, HTML",
+      "description": "I created this movie application using the React JavaScript Library. The application fetches data asynchronously from the movie database.",
+      "thumbnail": "/images/netmovies.png",
+      "link": "https://wizardly-villani-d2fe28.netlify.com/"
+    },
+    {
+      "title": "Nomad",
+      "stack": "CSS, HTML",
+      "description": "Third of my main CSS projects.This mock travel website was created using CSS Grid and CSS Flexbox.The page contains mordern CSS features and no JavaScript",
+      "thumbnail": "/images/nomad.png",
+      "link": "https://thirsty-visvesvaraya-a2c4e9.netlify.com/"
+    },
+    {
+      "title": "Mabira",
+      "stack": "CSS, HTML, JavaScript",
+      "description": "First of my main CSS projects. This mock online store for furniture, Home Decor and more was created using CSS Grid and CSS Flexbox. The page also contains minor JavaScript",
+      "thumbnail": "/images/mabira.png",
+      "link": "https://nostalgic-mirzakhani-6e7a0e.netlify.com/"
+    },
+    {
+      "title": "Github Battle",
+      "stack": "React JS, JavaScript, CSS, HTML",
+      "description": "An application i built as a part of a React course that i took with Tyler Mcginnis. Built on React JS and uses Axios to fetch information about the most popular Github repositories for the chosen language. Follow the link down below to battle github users",
+      "thumbnail": "/images/github.png",
+      "link": "https://reactgithubbattle-bf698.firebaseapp.com/"
+    },
+    {
+      "title": "Indulge",
+      "stack": "CSS, HTML",
+      "description": "Second of my main CSS projects.This mock Restaurant website was created using CSS Flexbox and CSS Grid. The page contains no JavaScript",
+      "thumbnail": "/images/indulge.png",
+      "link": "https://fervent-heyrovsky-3500ad.netlify.com/"
+    },
+    {
+      "title": "RGB Game",
+      "stack": "JavaScript, CSS, HTML",
+      "description": "This game was created as part of a Udemy course that i took with Colt Steele.The app was built using plain Vanilla JavaScript and CSS. You are provided with random RGB color values and you have to select the correct color among the given options",
+      "thumbnail": "/images/game.png",
+      "link": "https://codepen.io/amutaa/pen/bKqQRx"
+    }
+  ]
+}
